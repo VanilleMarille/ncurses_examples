@@ -1,6 +1,6 @@
 # ncurses example - Detect Arrow key + Draw box
 
-Key UP = int 2
+*Key UP = int 2
 Key DOWN = int 3
 Key RIGHT = int 4
 Key LEFT = int 5
