@@ -80,13 +80,15 @@ int main(void) {
 
 		switch(key){
 			case 1:
-				if(checklist[selected] != 1){
-					checklist[selected]=1;
-					printw("*");
-				}
-				else {
-					checklist[selected]=0;
-					printw(" ");
+				switch(checklist[selected]){
+					case 0:
+						checklist[selected]=1;
+						printw("*");
+						break;
+					case 1:
+						checklist[selected]=0;
+						printw(" ");
+						break;
 				}
 				break;
 			case 2:
