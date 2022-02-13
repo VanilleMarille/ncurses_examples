@@ -20,6 +20,6 @@ Draw one or more boxes in window.
 
 ## detect_keys
 
-Detect Keypress and fetch the assigned key-int.
+Detect keypress and fetch the assigned key-int.
 
 ![detect_keys](https://github.com/user4022/ncurses_examples/blob/main/screenshot/detect_keys.png?raw=true)
