@@ -6,7 +6,7 @@ Compile with: gcc file.c -o filename -lncurses
 
 Select entries from a list.
 
-Control with arrow up/down and Space.
+Control with arrow up/down and space.
 
 ![selection_list](https://github.com/user4022/ncurses_examples/blob/main/screenshot/selection_list.png?raw=true)
 
