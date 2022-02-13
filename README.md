@@ -1,13 +1,17 @@
 # ncurses examples
 
-* Key UP = int 2
-* Key DOWN = int 3
-* Key RIGHT = int 4
-* Key LEFT = int 5
-* Keys Other = int 1
+Compile with: gcc file.c -o filename -lncurses
 
-drawbox(x,y,width,height)
+## selection_list
 
-Compile with: gcc example.c -o example -lncurses
+Select entries from a list.
 
-![screen](https://github.com/user4022/ncurses_example_1/blob/main/screenshot/screenshot.png?raw=true)
+## draw_box
+
+Draw one or more boxes in window.
+
+
+## detect_keys
+
+Detect Keypress and fetch the assigned key-int.
+
