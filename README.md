@@ -8,7 +8,7 @@ Select entries from a list.
 
 Control with arrow up/down and Space.
 
-![draw_box](https://github.com/user4022/ncurses_examples/blob/main/screenshot/selection_list.png?raw=true)
+![selection_list](https://github.com/user4022/ncurses_examples/blob/main/screenshot/selection_list.png?raw=true)
 
 ## draw_box
 
