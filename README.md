@@ -1,4 +1,4 @@
-# ncurses example - Detect Arrow key + Draw box
+# ncurses examples
 
 * Key UP = int 2
 * Key DOWN = int 3
