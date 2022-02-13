@@ -5,6 +5,7 @@ Compile with: gcc file.c -o filename -lncurses
 ## selection_list
 
 Select entries from a list.
+Control with arrow up/down and Space.
 
 ## draw_box
 
